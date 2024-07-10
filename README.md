@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayaan Noman
 - 👀 I’m interested in Coding
-- 🌱 I’m currently 16 Years Old
+- 🌱 I’m currently working as a Freelancer
 - 💞️ I first started Coding when I was 12
 - 📫 How to reach me "ayaannoman2112@gmail.com"
 - 😄 I'm always excited to learn and improve in the field of Programming
