@@ -6,25 +6,28 @@
 - 😄 I'm always excited to learn and improve in the field of Programming
 - ⚡ Fun fact: My first Programming Language was Python
  <pre>
-- 🥷 < Skills >
- 
-        🌐  Html
-  
-        👾  CSS
-  
-        👑  SCSS
+🥷 < Skills >
 
-        💻  JS 
-  
+    < Front-End >
+        🌐  HTML
+        👾  CSS
+        👑  SCSS
+        💻  JavaScript
         💎  JSX
-  
-        📱  BootStrap
-  
+        👓  TypeScript
+        📱  Bootstrap
         ⚛️  React
-  
         🔎  Redux
-  
-  🥷 < / Skills >
+    </ Front-End >
+
+    < Back-End >
+        🗿  Node.js
+        🛠️  Express.js
+        💹  MySQL
+        🧮  MongoDB
+    </ Back-End >
+
+🥷 </ Skills >
 </pre>
 <!---
 Ayaan-16/Ayaan-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
